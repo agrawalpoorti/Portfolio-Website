@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/agrawalpoorti/Portfolio-Website#readme",
   "dependencies": {
+    "ejs-mate": "^4.0.0",
     "express": "^5.2.1",
     "path": "^0.12.7"
   }
