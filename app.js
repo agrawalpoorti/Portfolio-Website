@@ -16,5 +16,5 @@ app.listen(port,(req,res)=>{
   console.log("Port is listening");
 })
 app.get("/",(req,res)=>{
-  res.send("Welcome to the portfolio");
+  res.render("index.ejs");
 })
