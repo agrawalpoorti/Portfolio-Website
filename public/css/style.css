@@ -183,7 +183,7 @@ section {
     border: 2px solid #22c55e;
     border-radius: 20px;
     padding: 40px;
-    box-shadow: 0 0 25px rgba(34, 197, 94, 0.3);
+    box-shadow: none;
 }
 
 .education-box h1 {
@@ -203,12 +203,12 @@ section {
     padding: 18px 22px;
     border-left: 4px solid #22c55e;
     border-radius: 10px;
-    box-shadow: 0 0 15px rgba(34, 197, 94, 0.18);
+    box-shadow: none;
 }
 
 .edu-card:hover {
     background-color: #07110c;
-    box-shadow: 0 0 20px rgba(34, 197, 94, 0.35);
+    box-shadow: none;
 }
 
 .edu-card:last-child {
@@ -274,7 +274,7 @@ section {
     border: 2px solid #22c55e;
     border-radius: 20px;
     padding: 40px;
-    box-shadow: 0 0 25px rgba(34, 197, 94, 0.3);
+    box-shadow: none;
 }
 
 .coursework-box h1 {
@@ -297,13 +297,13 @@ section {
     padding: 18px 22px;
     border-left: 4px solid #22c55e;
     border-radius: 10px;
-    box-shadow: 0 0 15px rgba(34, 197, 94, 0.18);
+    box-shadow: none;
 }
 
 .coursework-content li:hover {
     color: #ffffff;
     background-color: #07110c;
-    box-shadow: 0 0 20px rgba(34, 197, 94, 0.35);
+    box-shadow: none;
 }
 
 /* Responsive */
@@ -346,7 +346,7 @@ section {
     border: 2px solid #22c55e;
     border-radius: 20px;
     padding: 40px;
-    box-shadow: 0 0 25px rgba(34, 197, 94, 0.3);
+    box-shadow: none;
 }
 
 .achievements-box h1 {
@@ -369,13 +369,13 @@ section {
     padding: 18px 22px;
     border-left: 4px solid #22c55e;
     border-radius: 10px;
-    box-shadow: 0 0 15px rgba(34, 197, 94, 0.18);
+    box-shadow: none;
 }
 
 .achievements-content li:hover {
     color: #ffffff;
     background-color: #07110c;
-    box-shadow: 0 0 20px rgba(34, 197, 94, 0.35);
+    box-shadow: none;
 }
 
 .achievements-content li:last-child {
@@ -422,7 +422,7 @@ section {
     border: 2px solid #22c55e;
     border-radius: 20px;
     padding: 40px;
-    box-shadow: 0 0 25px rgba(34, 197, 94, 0.3);
+    box-shadow: none;
 }
 
 .skills-box h1 {
@@ -443,13 +443,13 @@ section {
     border-left: 4px solid #22c55e;
     border-radius: 10px;
     padding: 22px;
-    box-shadow: 0 0 15px rgba(34, 197, 94, 0.18);
+    box-shadow: none;
     transition: background-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
 }
 
 .skill-category:hover {
     background-color: #07110c;
-    box-shadow: 0 0 20px rgba(34, 197, 94, 0.35);
+    box-shadow: none;
     transform: translateY(-4px);
 }
 
@@ -535,7 +535,7 @@ section {
     border: 2px solid #22c55e;
     border-radius: 20px;
     padding: 40px;
-    box-shadow: 0 0 25px rgba(34, 197, 94, 0.3);
+    box-shadow: none;
 }
 
 .projects-box h1 {
@@ -551,13 +551,13 @@ section {
     border-radius: 10px;
     padding: 24px;
     margin-bottom: 24px;
-    box-shadow: 0 0 15px rgba(34, 197, 94, 0.18);
+    box-shadow: none;
     transition: background-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
 }
 
 .project-card:hover {
     background-color: #07110c;
-    box-shadow: 0 0 20px rgba(34, 197, 94, 0.35);
+    box-shadow: none;
     transform: translateY(-4px);
 }
 
@@ -620,7 +620,7 @@ section {
 .project-card a:hover {
     color: #ffffff;
     background-color: transparent;
-    box-shadow: 0 0 16px rgba(34, 197, 94, 0.45);
+    box-shadow: none;
 }
 
 /* Responsive */
@@ -685,7 +685,7 @@ section {
     border: 2px solid #22c55e;
     border-radius: 20px;
     padding: 40px;
-    box-shadow: 0 0 25px rgba(34, 197, 94, 0.3);
+    box-shadow: none;
 }
 
 .contact-box h1 {
@@ -706,13 +706,13 @@ section {
     border-left: 4px solid #22c55e;
     border-radius: 10px;
     padding: 20px 22px;
-    box-shadow: 0 0 15px rgba(34, 197, 94, 0.18);
+    box-shadow: none;
     transition: background-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
 }
 
 .contact-content p:hover {
     background-color: #07110c;
-    box-shadow: 0 0 20px rgba(34, 197, 94, 0.35);
+    box-shadow: none;
     transform: translateY(-4px);
 }
 
@@ -797,7 +797,7 @@ section {
     border: 2px solid #22c55e;
     border-radius: 20px;
     padding: 40px;
-    box-shadow: 0 0 25px rgba(34, 197, 94, 0.3);
+    box-shadow: none;
 }
 
 .experience-box h1 {
@@ -822,7 +822,7 @@ section {
     border-left: 4px solid #22c55e;
     border-radius: 10px;
     padding: 20px 22px 20px 52px;
-    box-shadow: 0 0 15px rgba(34, 197, 94, 0.18);
+    box-shadow: none;
     transition: background-color 0.25s ease, color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
 }
 
@@ -835,13 +835,13 @@ section {
     height: 12px;
     background-color: #22c55e;
     border-radius: 50%;
-    box-shadow: 0 0 12px rgba(34, 197, 94, 0.75);
+    box-shadow: none;
 }
 
 .experience-content li:hover {
     color: #ffffff;
     background-color: #07110c;
-    box-shadow: 0 0 20px rgba(34, 197, 94, 0.35);
+    box-shadow: none;
     transform: translateY(-4px);
 }
 
@@ -892,7 +892,7 @@ section {
     border: 2px solid #22c55e;
     border-radius: 20px;
     padding: 40px;
-    box-shadow: 0 0 25px rgba(34, 197, 94, 0.3);
+    box-shadow: none;
 }
 
 .connect-box h1 {
@@ -927,13 +927,13 @@ section {
     padding: 18px 22px;
     font-size: 18px;
     line-height: 1.6;
-    box-shadow: 0 0 15px rgba(34, 197, 94, 0.18);
+    box-shadow: none;
     transition: background-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
 }
 
 .connect-links li:hover {
     background-color: #07110c;
-    box-shadow: 0 0 20px rgba(34, 197, 94, 0.35);
+    box-shadow: none;
     transform: translateY(-4px);
 }
 
@@ -1057,7 +1057,7 @@ textarea {
 .experience-box,
 .connect-box {
     border-width: 1px;
-    box-shadow: 0 0 38px rgba(34, 197, 94, 0.48), 0 0 70px rgba(34, 197, 94, 0.14);
+    box-shadow: none;
 }
 
 .edu-card,
@@ -1070,7 +1070,7 @@ textarea {
 .connect-links li,
 .feedback-form {
     border-left-width: 3px;
-    box-shadow: 0 0 22px rgba(34, 197, 94, 0.28), 0 0 42px rgba(34, 197, 94, 0.1);
+    box-shadow: none;
 }
 
 .edu-card:hover,
@@ -1081,7 +1081,7 @@ textarea {
 .contact-content p:hover,
 .experience-content li:hover,
 .connect-links li:hover {
-    box-shadow: 0 0 30px rgba(34, 197, 94, 0.48), 0 0 58px rgba(34, 197, 94, 0.16);
+    box-shadow: none;
 }
 
 .skill-category li,
@@ -1090,7 +1090,7 @@ textarea {
 .feedback-form input,
 .feedback-form textarea {
     border-width: 1px;
-    box-shadow: 0 0 16px rgba(34, 197, 94, 0.12);
+    box-shadow: none;
 }
 
 /* brighter professional theme.css */
@@ -1125,7 +1125,7 @@ h3,
 .navbar {
     background-color: rgba(11, 29, 18, 0.97);
     border-bottom-color: var(--green-border);
-    box-shadow: 0 12px 34px rgba(0, 0, 0, 0.35), 0 0 24px rgba(56, 224, 123, 0.18);
+    box-shadow: 0 12px 34px rgba(0, 0, 0, 0.35);
 }
 
 .nav-links a {
@@ -1166,12 +1166,12 @@ h3,
 .connect-box {
     background-color: var(--panel-bg);
     border-color: var(--green-border);
-    box-shadow: 0 0 42px rgba(56, 224, 123, 0.34), 0 18px 46px rgba(0, 0, 0, 0.35);
+    box-shadow: none;
 }
 
 .hero-left img {
     border-color: var(--green);
-    box-shadow: 0 0 34px rgba(56, 224, 123, 0.38);
+    box-shadow: none;
 }
 
 .hero-right h1,
@@ -1184,7 +1184,7 @@ h3,
 .experience-box h1,
 .connect-box h1 {
     color: var(--text-main);
-    text-shadow: 0 0 18px rgba(56, 224, 123, 0.2);
+    text-shadow: none;
 }
 
 .hero-right p,
@@ -1206,7 +1206,7 @@ h3,
 .feedback-form {
     background-color: var(--card-bg);
     border-left-color: var(--green);
-    box-shadow: 0 0 24px rgba(56, 224, 123, 0.2), 0 12px 30px rgba(0, 0, 0, 0.22);
+    box-shadow: none;
 }
 
 .edu-card:hover,
@@ -1218,7 +1218,7 @@ h3,
 .experience-content li:hover,
 .connect-links li:hover {
     background-color: var(--card-hover);
-    box-shadow: 0 0 34px rgba(56, 224, 123, 0.36), 0 16px 36px rgba(0, 0, 0, 0.28);
+    box-shadow: none;
 }
 
 .education-content h2,
@@ -1266,14 +1266,14 @@ h3,
     background-color: var(--green);
     border-color: var(--green);
     color: #06120a;
-    box-shadow: 0 0 18px rgba(56, 224, 123, 0.28);
+    box-shadow: none;
 }
 
 .project-card a:hover,
 .feedback-form button:hover {
     color: var(--text-main);
     background-color: transparent;
-    box-shadow: 0 0 24px rgba(56, 224, 123, 0.48);
+    box-shadow: none;
 }
 
 .feedback-form input,
@@ -1287,7 +1287,7 @@ h3,
 .feedback-form textarea:focus {
     background-color: #102818;
     border-color: var(--green);
-    box-shadow: 0 0 18px rgba(56, 224, 123, 0.35);
+    box-shadow: none;
 }
 
 .footer {
@@ -1347,12 +1347,14 @@ body {
 .connect-box {
     background-color: #0d1510;
     border-color: rgba(255, 255, 255, 0.16);
-    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.52), 0 0 18px rgba(49, 211, 111, 0.14);
+    box-shadow: none;
 }
 
 .hero-left img {
-    border-color: rgba(255, 255, 255, 0.28);
-    box-shadow: 0 16px 34px rgba(0, 0, 0, 0.5), 0 0 14px rgba(49, 211, 111, 0.14);
+    border: 3px solid #14532d;
+    outline: 2px solid #22c55e;
+    outline-offset: 6px;
+    box-shadow: none;
 }
 
 .hero-right h1,
@@ -1389,6 +1391,10 @@ body {
     color: #e1e8e3;
 }
 
+.hero-right p {
+    color: #ffffff;
+}
+
 .edu-card,
 .coursework-content li,
 .achievements-content li,
@@ -1400,7 +1406,7 @@ body {
 .feedback-form {
     background-color: #101915;
     border-left-color: #31d36f;
-    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.42), 0 0 12px rgba(49, 211, 111, 0.1);
+    box-shadow: none;
 }
 
 .edu-card:hover,
@@ -1412,7 +1418,7 @@ body {
 .experience-content li:hover,
 .connect-links li:hover {
     background-color: #16221c;
-    box-shadow: 0 16px 32px rgba(0, 0, 0, 0.5), 0 0 16px rgba(49, 211, 111, 0.16);
+    box-shadow: none;
 }
 
 .skill-category li,
@@ -1482,8 +1488,8 @@ body {
 .contact-box,
 .experience-box,
 .connect-box {
-    border: 3px solid rgba(49, 211, 111, 0.62);
-    box-shadow: 0 20px 46px rgba(0, 0, 0, 0.58), 0 0 34px rgba(49, 211, 111, 0.34);
+    border: 3px solid #14532d;
+    box-shadow: none;
 }
 
 .edu-card,
@@ -1496,7 +1502,7 @@ body {
 .connect-links li,
 .feedback-form {
     border-left: 6px solid #31d36f;
-    box-shadow: 0 14px 32px rgba(0, 0, 0, 0.48), 0 0 24px rgba(49, 211, 111, 0.28);
+    box-shadow: none;
 }
 
 .edu-card:hover,
@@ -1507,7 +1513,7 @@ body {
 .contact-content p:hover,
 .experience-content li:hover,
 .connect-links li:hover {
-    box-shadow: 0 18px 38px rgba(0, 0, 0, 0.55), 0 0 32px rgba(49, 211, 111, 0.42);
+    box-shadow: none;
 }
 
 /* deployment responsive polish.css */
@@ -1747,4 +1753,36 @@ button:focus-visible {
         animation-duration: 0.01ms !important;
         animation-iteration-count: 1 !important;
     }
+}
+
+/* Neutral project-section treatment */
+.projects {
+    background-color: #030303;
+}
+
+.projects-box {
+    background-color: #101010;
+    border-color: #3f3f3f;
+}
+
+.projects .project-card {
+    background-color: #151515;
+    border-left-color: #4b5563;
+}
+
+.projects .project-card:hover {
+    background-color: #1b1b1b;
+}
+
+.projects .project-card h3 {
+    color: #ffffff;
+}
+
+.projects .project-card p {
+    color: #f5f5f5;
+}
+
+.projects .project-card li:hover {
+    background-color: rgba(255, 255, 255, 0.12);
+    border-color: rgba(255, 255, 255, 0.28);
 }
